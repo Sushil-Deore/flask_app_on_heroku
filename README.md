@@ -1,7 +1,7 @@
 # flask_app_on_heroku:
 
 
-This repo is created for flask app deployment on Heroku.
+***This repo is created for flask app deployment on Heroku.***
 
 Heroku is a cloud platform as a service supporting several programming languages. 
 One of the first cloud platforms, Heroku has been in development since June 2007,
